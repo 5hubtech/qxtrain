@@ -1,0 +1,4 @@
+ai2-catwalk @ git+https://github.com/allenai/catwalk.git@qxtrain-eval
+hf_qxtrain @ git+https://github.com/allenai/qxtrain.git@main#subdirectory=hf_qxtrain
+pygsheets
+#ai2-tango[beaker,gs]==1.2.1

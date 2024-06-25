@@ -1,0 +1,3 @@
+compression/dependencies/AutoGPTQ
+efficiency/dependencies/efficiency-pentathlon/
+hf_qxtrain @ git+ssh://git@github.com/allenai/qxtrain.git@main#subdirectory=hf_qxtrain
